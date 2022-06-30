@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "title": "Learn",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Anything",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "React",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Redux react",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Thunks",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "This is",
+      "status": false,
+      "id": 7
+    }
+  ]
+}

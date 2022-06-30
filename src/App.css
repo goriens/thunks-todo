@@ -1,0 +1,15 @@
+.App {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+.input-bar{
+  padding: 10px;
+  font-weight: bold;
+}
+.btn{
+  padding: 10px;
+  margin-left: 5px;
+  border-radius: 3px;
+}
